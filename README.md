@@ -46,7 +46,7 @@ Created PCB layouts using EasyEDA.
 ---
 
 ## 🍜 Favorite Food
-- Adobo
+- Sinigang na baboy
 - Fried Chicken
 
 ---
