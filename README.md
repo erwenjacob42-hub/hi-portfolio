@@ -1,60 +1,63 @@
+
 # Erwen V. Jacob
 
-## About Me
+## 🚀 About Me
+I am Erwen who enjoys electronics, Arduino projects, PCB design,  programming in C++, and creating simple design.
 
-I am Erwen who enjoys electronics, Arduino projects, PCB design, programming in C++, and creating simple design.
+---
 
-## Location
+## 📍 Location
+Mandaragat old buncag
 
-     -Mandaragat old buncag
+---
 
-Hobbies
+## 🎯 Hobbies
+- 🎮 Playing online games 
+- 📖 Reading books
+- 💻 Coding
+- 🔌 Electronics Projects
+- 💡 Schematic diagram 
 
-     -Reading books
 
-     -Playing online games 
+---
 
-     -Coding
+## 💻 Skills
 
-     -Electronics Projects
-
-     -Schematic diagram
-
-##Skills
-
-Skill
-
-Level |
-
-C++ | Beginner |
-
-Arduino | Beginner
-
+| Skill | Level |
+|--------|--------|
+| C++ | Beginner |
+| Arduino | Beginner |
 | PCB Design | Beginner |
+|schematic design|Beginner|
 
-schematic design |Beginner|
+---
 
-## Projects
-
-Arduino LED Blink
-
+## 📂 Projects
+### 🔹 Arduino LED Blink
 Simple Arduino LED blinking project using C++.
-
-### EasyEDA schematic
-
+### 🔹 EasyEDA schematic 
 ESP32 Expansion board
 
-### PCB Design Practice Created PCB layouts using EasyEDA. Create Schematic using EasyEDA.
 
-Favorite Food
+### 🔹 PCB Design Practice
+Created PCB layouts using EasyEDA.
+,Create Schematic using EasyEDA.
 
--Sinigang
--Fried chicken
+---
 
-## future Goals - create my own name and design.
+## 🍜 Favorite Food
+- Adobo
+- Fried Chicken
 
-## Contact
+---
 
+## 🔮 future  Goals 
+- create my own name and design.
+
+## 📫 Contact
 - GitHub: erwenjacob42-hub
-  erwenjacob42@gmail.com
-Thanks for visiting my portfolio
+- erwenjacob42@gmail.com
+
+---
+
+⭐ Thanks for visiting my portfolio!
